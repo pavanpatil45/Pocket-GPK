@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".InfoMain"
+            android:label="@string/title_activity_info_main"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity android:name=".ExamsActivity" />
+        <activity android:name=".AboutMain" />
+        <activity android:name=".NoticeMain" />
+        <activity android:name=".VoteMain" />
+        <activity android:name=".XLSActivity" />
+        <activity android:name=".PPTActivity" />
+        <activity android:name=".PDFActivity" />
+        <activity android:name=".DOCActivity" />
+        <activity android:name=".StudyMain" />
+        <activity android:name=".CollegeMain" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".teacherlogin" />
+        <activity android:name=".studentlogin" />
+        <activity android:name=".adminlogin" />
+        <activity android:name=".addteacher" />
+        <activity android:name=".addstudent" />
+        <activity android:name=".takeAttendance" />
+        <activity android:name=".admin_attendanceSheet" />
+        <activity android:name=".teacher_attendanceSheet" />
+        <activity android:name=".student_attendance_sheet"/>
+        <activity android:name=".LoginActivity"/>
+
+        <activity
+            android:name=".SplashActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

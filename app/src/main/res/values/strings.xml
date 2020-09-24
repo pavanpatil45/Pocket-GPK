@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Pocket GPK</string>
+    <string name="title_activity_about_main">AboutMain</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_info_main">About Pocket GPK</string>
+    <string name="large_text">
+        " This app is developed by 3rd year computer engineering students of G.P. Khamgaon, in the year 2018-2019."\n\n
+        "pocket GPK is developed in Android Studio v3.3"\n\n
+        The App “Pocket Gpk” deals with web view of college website through the button on click,. Our app has the real time databases for attendance, through checkbox. based on Firebase. Teacher can take the attendance and modify it. \n\n Students can’t do any changes in this application. So, the proxy become difficult. This program can facilitate students to explore all the activities happening in the college through e-noticeboard, \n\n even students can get to know which teacher/faculty is assigned to which Stream, the current status of a Stream, attendance percentage of a Stream and upcoming requirements of a Stream. \n\n Teachers can upload the notice through the www.blooger.com . Students get the study material for study in this android application through the PPTs, PDFs, Document files (.doc), Spread sheets (.xls) and also available the previous paper to prepare for studies and help.  Admin and teacher can create the polls through the www.polleverywhere.com which record the data and control from anywhere whenever admin or teacher want.
+					\n\n The purpose of  “pocket GPK ” is to automated the college system using online services and make one step ahead to digitalized the college management through the android smartphone which is available everywhere and easy handled .
+\n\n\n\n\n
+               "Copyright © 2019 GP Khamgaon."
+
+    </string>
+    <array name="classes">
+        <item>select Class</item>>
+        <item>CO1I</item>
+        <item>CO2I</item>
+        <item>CO3I</item>
+        <item>CO4I</item>
+        <item>CO5I</item>
+        <item>CO6I</item>
+
+        <item>ME1I</item>
+        <item>ME2I</item>
+        <item>ME3I</item>
+        <item>ME4I</item>
+        <item>ME5I</item>
+        <item>ME6I</item>
+
+        <item>CE1I</item>
+        <item>CE2I</item>
+        <item>CE3I</item>
+        <item>CE4I</item>
+        <item>CE5I</item>
+        <item>CO6I</item>
+
+        <item>ETE1I</item>
+        <item>ETE2I</item>
+        <item>ETE3I</item>
+        <item>ETE4I</item>
+        <item>ETE5I</item>
+        <item>ETE6I</item>
+
+        <item>EE1I</item>
+        <item>EE2I</item>
+        <item>EE3I</item>
+        <item>EE4I</item>
+        <item>EE5I</item>
+        <item>EE6I</item>
+
+
+
+    </array>
+    <array name="periods">
+        <item>p1</item>
+        <item>p2</item>
+        <item>p3</item>
+        <item>p4</item>
+        <item>p5</item>
+
+    </array>
+</resources>

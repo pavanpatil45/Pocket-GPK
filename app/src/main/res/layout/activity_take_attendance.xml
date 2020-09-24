@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".takeAttendance"
+    android:background="@color/cardview_light_background">
+
+    <include
+        android:id="@+id/takeattendancebar"
+        layout="@layout/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="8dp"
+        />
+
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+     android:layout_below="@+id/takeattendancebar"
+     android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView"
+        android:textColor="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="36dp"
+        android:text="TextView"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.917"
+        app:layout_constraintLeft_toLeftOf="@+id/btshow"
+        app:layout_constraintRight_toRightOf="@+id/btshow"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.004"
+        tools:layout_constraintLeft_creator="1"
+        tools:layout_constraintRight_creator="1" />
+
+    <Spinner
+        android:id="@+id/spinner4"
+        android:background="@drawable/spinner"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:entries="@array/periods"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.063"
+        tools:layout_editor_absoluteX="8dp" />
+
+    <ListView
+        android:id="@+id/checkable_list"
+        android:background="@drawable/date"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.523"
+        app:layout_constraintLeft_toLeftOf="@+id/textView"
+        app:layout_constraintRight_toRightOf="@+id/textView"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.496"
+        tools:layout_constraintLeft_creator="1"
+        tools:layout_constraintRight_creator="1">
+
+
+
+    </ListView>
+
+
+ </LinearLayout>
+
+    <Button
+        android:id="@+id/btshow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textColor="#fff"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/button1"
+        android:onClick="showSelectedItems"
+        android:text="Submit"
+
+        android:layout_alignParentBottom="true"
+        />
+
+</RelativeLayout>
+

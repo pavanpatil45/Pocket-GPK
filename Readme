@@ -1,4 +1,4 @@
-All in one managerial Android App for the students and Staffs of Govt. Polytechnic, Khamgaon.
+
 ![1](https://user-images.githubusercontent.com/47142604/99796297-3ec04500-2b53-11eb-9329-527d780296c7.jpg)
 ![2](https://user-images.githubusercontent.com/47142604/99796316-454ebc80-2b53-11eb-98a4-0e7ab70962ed.png)
 ![3](https://user-images.githubusercontent.com/47142604/99796348-57c8f600-2b53-11eb-99c5-20a7653b7183.jpg)
@@ -13,17 +13,4 @@ All in one managerial Android App for the students and Staffs of Govt. Polytechn
 ![12](https://user-images.githubusercontent.com/47142604/99796418-77601e80-2b53-11eb-837c-7c56fffaf1b4.png)
 ![13](https://user-images.githubusercontent.com/47142604/99796449-83e47700-2b53-11eb-861b-896d20ae7eb5.png)
 
-The purpose of “pocket GPK An Android application” is to automated the college system using online services 
-and make one step ahead to digitalized the college management through the android smartphone which is available 
-everywhere and easy handled.
 
-Pocket GPK An android Application” deals with web view of college website through the button on click,. 
-Our program have the real time databases for attendance through checkbox based on Firebase dependency. 
-Teacher can take the attendance and modifiable it, Students can’t do any changes in this application. 
-So, the proxy become difficult .This program can facilitate students explore all the activities happening 
-in the college through e-noticeboard, even students can get to know which teacher / faculty is assigned 
-to which Stream, the current status of a Stream, attendance percentage of a Stream and upcoming requirements 
-of a Stream. Teachers can upload the notice through the www.blooger.com .Students get the study material for 
-study in this android application through the PPTs, PDFs, Document files (.doc), Spread sheets (.xls) and also 
-available the previous paper to prepare for studies and help. Admin and teacher can create the polls through 
-the www.polleverywhere.com which record the data and control from anywhere whenever admin or teacher want

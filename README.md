@@ -1,5 +1,5 @@
 # Pocket-GPK
-All in one managerial Android App for the students and Staffs of Govt. Polytechnic, Khamgaon.
+This is my Diploma final year project using java in Android Studio. it is an All in one managerial Android App for the students and Staffs of Govt. Polytechnic Khamgaon.
 
 ![1](https://user-images.githubusercontent.com/47142604/99796297-3ec04500-2b53-11eb-9329-527d780296c7.jpg)
 ![2](https://user-images.githubusercontent.com/47142604/99796316-454ebc80-2b53-11eb-98a4-0e7ab70962ed.png)

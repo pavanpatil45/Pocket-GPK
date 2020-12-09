@@ -5,7 +5,7 @@ This is my Diploma final year project using Java & Firebase integration in Andro
 
 
 <img src="https://user-images.githubusercontent.com/47142604/99796297-3ec04500-2b53-11eb-9329-527d780296c7.jpg" height="380" />&nbsp;       
-<img src="https://user-images.githubusercontent.com/47142604/99796316-454ebc80-2b53-11eb-98a4-0e7ab70962ed.png" height="380" />&nbsp;       
+<img src="https://user-images.githubusercontent.com/47142604/99796316-454ebc80-2b53-11eb-98a4-0e7ab70962ed.png" height="680" />&nbsp;       
 <img src="https://user-images.githubusercontent.com/47142604/99796348-57c8f600-2b53-11eb-99c5-20a7653b7183.jpg" height="380" />&nbsp;       
 <img src="https://user-images.githubusercontent.com/47142604/99796356-5b5c7d00-2b53-11eb-8b6b-1378bf8eff64.png" height="380" />&nbsp;       
 <img src="https://user-images.githubusercontent.com/47142604/99796365-60213100-2b53-11eb-8973-5d3407955a73.png" height="380" />&nbsp; 

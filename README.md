@@ -1,4 +1,4 @@
-# Pocket-GPK
+## Pocket-GPK
 This is my Diploma final year project using Java & Firebase integration in Android Studio. its an All in one managerial App for the students and Staffs of Govt. Polytechnic Khamgaon.
 
 

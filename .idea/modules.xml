@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1784890568/Pocket-GPK.iml" filepath="$PROJECT_DIR$/.idea/modules/1784890568/Pocket-GPK.iml" group="Pocket-GPK" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1245345882/Pocket-GPK-app.iml" filepath="$PROJECT_DIR$/.idea/modules/1245345882/Pocket-GPK-app.iml" group="Pocket-GPK/app" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="pocketgpk/app" />
-      <module fileurl="file://$PROJECT_DIR$/pocketgpk.iml" filepath="$PROJECT_DIR$/pocketgpk.iml" group="pocketgpk" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GIT UPLOAD.Pocket-GPK.iml" filepath="$PROJECT_DIR$/.idea/modules/GIT UPLOAD.Pocket-GPK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Pocket-GPK.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Pocket-GPK.app.iml" />
     </modules>
   </component>
 </project>
